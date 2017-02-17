@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.13" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="me.fabioelialocatelli.starcompanion.SpectralClass" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/SpectralClass.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="245" x="1243" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="me.fabioelialocatelli.starcompanion.DescriptionFetcher" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/DescriptionFetcher.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="215" x="405" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="me.fabioelialocatelli.starcompanion.StellarCalculator" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/StellarCalculator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="252" x="1528" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="me.fabioelialocatelli.starcompanion.DatabaseBrowser" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/DatabaseBrowser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="293" x="707" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="me.fabioelialocatelli.starcompanion.FileCleaner" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/FileCleaner.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="208" x="660" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="me.fabioelialocatelli.starcompanion.StatementGenerator" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/StatementGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="267" x="1209" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="me.fabioelialocatelli.starcompanion.DatabaseInterface" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/DatabaseInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="261" x="908" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="me.fabioelialocatelli.starcompanion.InterfaceManipulator" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/InterfaceManipulator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="163" x="1040" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="me.fabioelialocatelli.starcompanion.UserInterface" project="StarCompanion" 
+    file="/StarCompanion/src/main/java/me/fabioelialocatelli/starcompanion/UserInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="855" width="264" x="1516" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="10">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="11" name="spectralClassInstance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="12" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="13">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="14" name="databaseBrowserInstance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="15" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="16">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="17" name="stellarCalculatorInstance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="18" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="20" name="interfaceManipulatorInstance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
